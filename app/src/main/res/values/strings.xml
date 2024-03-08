@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PresentationCard</string>
+    <string name="name">Gustavo Hernández</string>
+    <string name="title">Sotfware Developer</string>
+    <string name="phone">Teléfono</string>
+    <string name="github">Github</string>
+    <string name="email">Correo electrónico</string>
+</resources>
